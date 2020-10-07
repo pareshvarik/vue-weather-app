@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "pen",
+      "price": 9
+    },
+    {
+      "name": "basmati rice",
+      "price": "129",
+      "id": 3
+    },
+    {
+      "name": "watch",
+      "price": "999",
+      "id": 4
+    }
+  ]
+}
